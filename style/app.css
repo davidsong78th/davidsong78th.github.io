@@ -1,0 +1,44 @@
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#img {
+    border: 2px solid rgb(99, 99, 99)
+}
+
+
+.navbar #navbarNav .navbar-nav li a {
+    color: white;
+}
+
+.navbar #navbarNav .navbar-nav li a:hover{
+    color: darkgray;
+}
+
+.Section {
+    background-color: rgba(236, 236, 236, 0.9);
+}
+
+.navbar.scrolled {
+    background: rgba(211, 211, 211, 0.25);
+    transition: background 500ms;
+}
+
+#center {
+    display: flex; 
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(94, 94, 94);
+}
+
+#imgFooter {
+    display: flex;
+    margin: auto;
+    max-width: 20%;
+    height: auto;
+}
