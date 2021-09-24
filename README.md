@@ -7,13 +7,13 @@ I am just a student who is willing to put efforts to learn new skills everyday!
 
 
 ## 🛠 Check out My Skills!
-Languages: HTML, CSS, Javascript, React Native, C++, Java
+Languages: Python, HTML5, CSS3, Javascript, React Native, C++, Java
 
 Database: SQLite
 
-Libraries & Frameworks: NodeJS, JSON, Express JS, REST, Bootstrap
+Libraries & Frameworks: NodeJS, JSON, REST API, Bootstrap
 
-Software: Git, VS Code, Eclipse IDE, OrCAD PSpice, Mathematica, Xilinx ISE
+Software: Git, Expo Go, VS Code, Eclipse IDE, OrCAD PSpice, Mathematica, Xilinx ISE
 
 Hardware: Function Generator, DMM, Oscilloscope, DC Power Supply, Breadboard
 
